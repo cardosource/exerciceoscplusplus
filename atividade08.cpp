@@ -1,5 +1,5 @@
 #include <iostream>
-//http://www.abreuadvocacia.adv.br/aprenda-a-calcular-horas-trabalhadas-de-uma-vez-por-todas.html
+// referencia; http://www.abreuadvocacia.adv.br/aprenda-a-calcular-horas-trabalhadas-de-uma-vez-por-todas.html
 int main(){
 
 using namespace std;
