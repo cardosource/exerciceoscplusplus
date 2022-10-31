@@ -6,6 +6,7 @@ float formula(float temperatura){
      float resposta = (temperatura * 9/5) + 32;
      return resposta;
 }
+
 int main(){
     float fahrenheit;
     cout<< "Informe a temperatura em °C   : ";
