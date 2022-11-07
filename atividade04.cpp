@@ -8,8 +8,7 @@ int main(){
 
         std::cout << "Informe a nota " << n << " : ";
         std:std::cin >> nota;
-        media +=nota;
-         
+        media +=nota; 
     }
     std::cout << "Media nota bimestral: "<< media/4 << "\n";
 
